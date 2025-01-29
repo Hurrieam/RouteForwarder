@@ -17,20 +17,13 @@
 mono_crash.*
 
 # Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-[Ww][Ii][Nn]32/
-[Aa][Rr][Mm]/
-[Aa][Rr][Mm]64/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
+bin/Debug/RouteForwarder.exe
+bin/Debug/RouteForwarder.exe.config
+obj/Debug/*.cs
+obj/Debug/RouteForwarder.csproj.FileListAbsolute.txt
+obj/Debug/RouteForwarder.exe
+obj/Debug/*.resources
+obj/Debug/TempPE/Properties.Resources.Designer.cs.dll
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
